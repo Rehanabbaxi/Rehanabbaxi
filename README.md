@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Rehan Ahmed  
+🎓 BS in Artificial Intelligence | 💡 Passionate about AI, ML & Software Development  
 
-<!--
-**Rehanabbaxi/Rehanabbaxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently learning **Data Structures & Algorithms** and **Deep Learning**
+- 🧠 Interested in **AI for social good**, **ML**, and **RAG systems**
+- 💼 Worked on **healthcare AI projects** like Chest Pathology Diagnosis
+- 🎯 Goal: Build impactful AI-based systems for real-world use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+💻 **Languages:** Python, Java, C  
+🧠 **AI/ML:** PyTorch, scikit-learn, LangChain  
+🗃️ **Databases:** MySQL, SQLite  
+🧩 **Tools:** Git, VS Code, Jupyter, Tkinter  
+
+---
+
+## 🧪 Projects
+### 🩺 [Ilaaj AI](https://ilaaj-ai.vercel.app/)
+AI-powered healthcare web app for chest X-ray diagnosis.  
+
+
+---
+
+## 📊 GitHub Stats
+![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rehanabbaxi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rehanabbaxi&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/your-link) | [Email](mailto:your@email.com)
