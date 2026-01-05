@@ -29,8 +29,8 @@ A complete AI-powered healthcare solution for doctors and patients.
 
 ####  [ExoClassifier](https://github.com/Rehanabbaxi/ExoClassifier) — Exoplanet Detection via ML  
 A supervised ML pipeline that classifies exoplanets using NASA’s Kepler dataset.  
-- 🔍 Performed data cleaning, preprocessing, and feature engineering for noise reduction.  
-- 🤖 Evaluated multiple models (Random Forest, SVM, Gradient Boosting) with optimized accuracy.  
+-  Performed data cleaning, preprocessing, and feature engineering for noise reduction.  
+-  Evaluated multiple models (Random Forest, SVM, Gradient Boosting) with optimized accuracy.  
 -  Focused on model explainability and reproducibility of the ML workflow.  
 **Tech Stack:** scikit-learn, Pandas, Matplotlib, NumPy  
 
