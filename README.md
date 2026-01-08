@@ -27,6 +27,15 @@ A complete AI-powered healthcare solution for doctors and patients.
 
 ---
 
+####  [Local-Chatbot](https://github.com/Rehanabbaxi/Local_ChatBot) — Private Local RAG Interface  
+* **Privacy-First RAG Pipeline:** Utilizes **Ollama** to run local LLMs (such as Llama 3 or Mistral), ensuring 100% data sovereignty with no external data transmission.
+* **Intelligent Document Ingestion:** Automated parsing and embedding of user-uploaded PDFs and text files for high-accuracy retrieval-augmented generation.
+* **Contextual Querying:** Advanced retrieval system that allows users to interact with their specific datasets without the need for cloud-based AI providers.
+* **Zero-API Dependency:** Eliminates subscription costs and API latency by leveraging local hardware for both vector storage and model inference.
+* ** 
+
+---
+
 ####  [ExoClassifier](https://github.com/Rehanabbaxi/ExoClassifier) — Exoplanet Detection via ML  
 A supervised ML pipeline that classifies exoplanets using NASA’s Kepler dataset.  
 -  Performed data cleaning, preprocessing, and feature engineering for noise reduction.  
